@@ -1,5 +1,4 @@
-# Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
-A jekyll website for photographers
+<img src="https://cdn.cardiacar.rest/github/github-ce-logo.png">
 
 ## Highlights
 1. Easy setup and you get a site of your own for __free__.
