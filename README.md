@@ -1,6 +1,4 @@
-<center>
 <img src="https://cdn.cardiacar.rest/github/github-ce-logo.png">
-</center>
 
 ## Information
 This is a modified fork of Rampatra's Photography, for the use on <a href="https://www.natureandwild.life">NatureAndWild.life</a>
