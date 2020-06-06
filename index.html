@@ -9,9 +9,6 @@ layout: default
     <header id="header">
         <h1><a href="index.html"><img src="https://cdn.cardiacar.rest/github/web-ce2-logo.png" width="25%" height="25%"></a></h1>
         <nav>
-                <p class="copyright">
-                    &copy; {{ site.author }}. Design: {{ site.web_design }}
-                </p>
             <ul class="icons">
                         {% if site.social_urls.facebook %}
                             <li>
@@ -24,6 +21,20 @@ layout: default
                             <li>
                                 <a href="{{ site.social_urls.instagram }}" class="icon fa-instagram">
                                     <span class="label">Instagram</span>
+                                </a>
+                            </li>
+                        {% endif %}
+                        {% if site.social_urls.dribbble %}
+                            <li>
+                                <a href="https://shop.natureandwild.life" class="icon fa-shopping-cart">
+                                    <span class="label">Shop</span>
+                                </a>
+                            </li>
+                        {% endif %}
+                        {% if site.social_urls.github %}
+                            <li>
+                                <a href="https://www.bksn.pro" class="icon fa-wrench">
+                                    <span class="label">BKSN.PRO</span>
                                 </a>
                             </li>
                         {% endif %}
